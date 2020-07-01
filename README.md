@@ -15,7 +15,7 @@ My first story was to clean up and re-arrange how the edit feature for images wo
         <img class="medium_size" src='@Url.Action("DisplayPhoto", "Photo", new { id = Model.PhotoId })' />
         <br />
         <p class="strong">Height :  @Html.DisplayFor(model => model.OriginalHeight)
-            px | Width : @Html.DisplayFor(model => model.OriginalWidth) px</p>
+        px | Width : @Html.DisplayFor(model => model.OriginalWidth) px</p>
         @*@Html.LabelFor(model => model.PhotoFile, htmlAttributes: 
         new { @class = "control-label col-md-4 inputLabel" })
     </div>
