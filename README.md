@@ -8,7 +8,7 @@ I'll list some of the stories I worked on and what I achieved along the way.
 
 
 # Cleanup of image edit page
-My first story was to clean up and re-arrange how the edit feature for images worked. This not only helped me understand Azure Dev-ops a bit more, but I was able to contribute something, albiet small.
+My first story was to clean up and re-arrange how the edit feature for images worked. This not only helped me understand Azure Dev-ops a bit more, but I was able to contribute something, albeit small.
 
 ```csharp
     <div class="form-group">
@@ -24,10 +24,10 @@ My first story was to clean up and re-arrange how the edit feature for images wo
 The way I did it made it simple and understandable for the user to read.
 
 
-## Other skill acquired
-- Placeholder
+## Other skills acquired
+- The ability to comfortably work on a project and utilize Azure Dev-ops to successfully publish the code efficiently.
 - Placeholder
 - Placeholder
 - Team building Placeholder
   - Placeholder
-  - Placeholer
+  - Placeholder
