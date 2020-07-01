@@ -22,3 +22,12 @@ My first story was to clean up and re-arrange how the edit feature for images wo
 ```
 
 The way I did it made it simple and understandable for the user to read.
+
+
+## Other skill acquired
+- Placeholder
+- Placeholder
+- Placeholder
+- Team building Placeholder
+  - Placeholder
+  - Placeholer
