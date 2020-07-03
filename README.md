@@ -1,13 +1,13 @@
-## Live-Project-Summary
+# Live-Project-Summary
 
-# Introduction
+## Introduction
 The final two weeks at the tech academy was spent working on a live project with fellow students. 
 We developed a full scale MVC/MVVM Web Application in C#. A lot of the Application was developed and our main focus was improving the code, adding new features and fixing bugs. 
 I'll list some of the stories I worked on and what I achieved along the way.
 
 
 
-# Cleanup of image edit page
+## Cleanup of image edit page
 My first story was to clean up and re-arrange how the edit feature for images worked. This not only helped me understand Azure Dev-ops a bit more, but I was able to contribute something, albeit small.
 
 ```csharp
@@ -23,6 +23,15 @@ My first story was to clean up and re-arrange how the edit feature for images wo
 
 The way I did it made it simple and understandable for the user to read.
 
+
+## Debugging Javascript
+My second story, was to figure out what was throwing exceptions on the application. Bugs are a huge annoyance and even the smallest and easiest ones to squash, are hard to find. After looking through the code and doing a bit of research I was able to locate where the issues were and correct them. 
+
+### The first Error was "Uncaught ReferenceError: $ is not defined".
+This was fixed by simply moving how the scripts were loaded on the page.
+
+### The second erorr was Uncaught SyntaxError: Identifier ~~'XXXXXXXXX'~~ has already been declared.
+This was was resolved by putting a section of code into braces.
 
 ## Other skills acquired
 - The ability to comfortably work on a project and utilize Azure Dev-ops to successfully publish the code efficiently.
