@@ -1,10 +1,10 @@
 # Live-Project-Summary
 
 # Links
-[Image Cleanup](##Cleanup-of-image-edit-page)
-[Debugging Javascript](##Debugging-Javascript)
-[Skills Acquired](##Other-skills-acquired)
-[Contact](##Contact-and-links)
+-[Image Cleanup](#Cleanup-of-image-edit-page)
+-[Debugging Javascript](#Debugging-Javascript)
+-[Skills Acquired](#Other-skills-acquired)
+-[Contact](#Contact-and-links)
 ## Introduction
 The final two weeks at the tech academy was spent working on a live project with fellow students. 
 We developed a full scale MVC/MVVM Web Application in C#. A lot of the Application was developed and our main focus was improving the code, adding new features and fixing bugs. 
@@ -47,5 +47,5 @@ This was was resolved by putting a section of code into braces.
   - Placeholder
 
 ## Contact and links
-[Github](https://github.com/Gruzzly-bear)
-[Email](mailto:gruzzly-bear@outlook.com?subject=Hey%20There!)
+-[Github](https://github.com/Gruzzly-bear)
+-[Email](mailto:gruzzly-bear@outlook.com?subject=Hey%20There!)
