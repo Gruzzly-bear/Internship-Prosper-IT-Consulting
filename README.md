@@ -28,9 +28,25 @@ My first story was to clean up and re-arrange how the edit feature for images wo
 
 The way I did it made it simple and understandable for the user to read.
 
+## Fixing issue with the calander.
+There were a few issues with the calander that needed to be addressed. Such as checkboxes needing to be disabled when certain choices were chosen elsewhere.
+
+```Javascript
+    $('#disableUnchecked').change(function () {
+        if ($(this).is('select')) {
+            // disable the dropdown:
+            $('#event').attr('disabled', 'disabled');
+        } else {
+            $('#event').removeAttr('disabled');
+        }
+    });
+```
+## Stylizing the Event add page.
+Using bootstrap and various razer options, I was able to stylize and display the content in a more appealing way.
+
 
 ## Debugging Javascript
-My second story, was to figure out what was throwing exceptions on the application. Bugs are a huge annoyance and even the smallest and easiest ones to squash, are hard to find. After looking through the code and doing a bit of research I was able to locate where the issues were and correct them. 
+I was to figure out what was throwing exceptions on the application. Bugs are a huge annoyance and even the smallest and easiest ones to squash, are hard to find. After looking through the code and doing a bit of research I was able to locate where the issues were and correct them. 
 
 ### The first Error was "Uncaught ReferenceError: $ is not defined".
 This was fixed by simply moving how the scripts were loaded on the page.
