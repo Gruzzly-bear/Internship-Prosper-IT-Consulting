@@ -10,7 +10,10 @@
 - [Contact](#Contact-and-links)
 ## Introduction
 The final two weeks at the tech academy was spent working on a live project with fellow students. 
-We developed a full scale MVC/MVVM Web Application in C#. A lot of the Application was developed and our main focus was improving the code, adding new features and fixing bugs. I was tasked with doing a mix of all of it. From fixing errors thrown by javascript, reformatting code, and even adding new features. Although this was a live project worked on by a multitude of people, it was still for an actually and operating business. Therefore, I can only display snippits and rough mockups of what was done.
+We developed a full scale MVC/MVVM Web Application in C#. A lot of the Application was developed and our main focus was improving the code, adding new features and fixing bugs. I was tasked with doing a mix of all of it. From fixing errors thrown by javascript, reformatting code, and even adding new features.
+
+Although this was a live project worked on by a multitude of people, it was still for an actually and operating business. Therefore, I can only display snippits and rough mockups of what was done. I have created the mockups in the most simple form to give you an idea of what it looked like.
+
 I'll list some of the stories I worked on and what I achieved along the way.
 
 
