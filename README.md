@@ -31,14 +31,17 @@ My first story was to clean up and re-arrange how the edit feature for images wo
         new { @class = "control-label col-md-4 inputLabel" })
     </div>
 ```
+
+<p align="center">
+The way I accomplished this made it simple and understandable for the user to read. It was formatted so that it would fit right under the image.
+</p>
+
 <p align="center">
   <img width="450" height="300" src="https://i.imgur.com/43lYV5O.jpg">
 </p>
 
 
-<p align="center">
-The way I accomplished this made it simple and understandable for the user to read.
-</p>
+
 
 ## Fixing issues with the calander
 There were a few issues with the calander that needed to be addressed. Such as checkboxes needing to be disabled when certain choices were chosen elsewhere. This was mostly useful for time selection of an event. There were two predetermined times in the system. Matinee and Evening. When ever someone selected the box for either of those, they wanted the dropdown selector for specific times to be disabled. Also, the same code could be reformatted and reused to disable the checkboxes if a specific time was checked in the checkboxes. The calander add event page needed to be cleaned and formatted to appeal better to the user. Everything was aligned to the left side of the page. Near to the edge. I adjusted some padding and centered everything.
