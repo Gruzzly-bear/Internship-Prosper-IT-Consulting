@@ -9,10 +9,10 @@
 - [Skills Acquired](#Other-skills-acquired)
 - [Contact](#Contact-and-links)
 ## Introduction
-I spent two weeks working on a live project with fellow entry level developers.
-We developed a full scale MVC/MVVM Web Application in C#. A lot of the Application was developed and our main focus was improving the code, adding new features and fixing bugs. I was tasked with doing a mix of all of it. From fixing errors thrown by javascript, reformatting code, and even adding new features.
+I have spent two weeks working on a live project with fellow entry level developers from novice to advanced.
+We worked on a full scale MVC/MVVM Web Application utilizing Javascript, C#, HTML/CSS and razer Syntax. A lot of the Application was developed and our main focus was improving the code, adding new features and fixing bugs. We all were tasked with doing a mix of all of it. From fixing errors thrown by javascript, reformatting code, and even adding new features. I worked on stories that involved a little bit of everything.
 
-Although this was a live project worked on by a multitude of people, it was still for an actually and operating business. Therefore, I can only display snippits and rough mockups of what was done. I have created the mockups in the most simple form to give you an idea of what it looked like.
+Although this was a live project worked on by a multitude of people, it was still for a functions and operating business. Therefore, I can only display snippits and rough mockups of what was done. I have created the mockups in the most simple form to give you an idea of what it looked like.
 
 I'll list some of the stories I worked on and what I achieved along the way.
 
@@ -32,7 +32,7 @@ My first story was to clean up and re-arrange how the edit feature for images wo
     </div>
 ```
 <p align="center">
-  <img width="460" height="300" src="https://i.imgur.com/43lYV5O.jpg">
+  <img width="450" height="300" src="https://i.imgur.com/43lYV5O.jpg">
 </p>
 
 
@@ -58,7 +58,7 @@ There were a few issues with the calander that needed to be addressed. Such as c
     Here is how it reacted when the drop down was selected.
 </p>
 <p align="center">
-  <img width="460" height="300" src="https://i.imgur.com/AnlsqSM.jpg">
+  <img width="450" height="300" src="https://i.imgur.com/AnlsqSM.jpg">
 </p>
 
 
@@ -67,7 +67,7 @@ There were a few issues with the calander that needed to be addressed. Such as c
 Here is how it reacted when the Checkboxes were selected.
 </P>
 <p align="center">
-  <img width="460" height="300" src="https://i.imgur.com/VcBlcxN.jpg">
+  <img width="450" height="300" src="https://i.imgur.com/VcBlcxN.jpg">
 </p>
 
 
