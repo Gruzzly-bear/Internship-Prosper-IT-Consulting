@@ -31,7 +31,7 @@ My first story was to clean up and re-arrange how the edit feature for images wo
 <p align="center">
   <img width="460" height="300" src="https://i.imgur.com/43lYV5O.jpg">
 </p>
-![Dimensions](https://i.imgur.com/43lYV5O.jpg)
+
 
 
 The way I accomplished this made it simple and understandable for the user to read.
@@ -49,6 +49,22 @@ There were a few issues with the calander that needed to be addressed. Such as c
         }
     });
 ```
+
+Here is how it reacted when the drop down was selected.
+<p align="center">
+  <img width="460" height="300" src="https://i.imgur.com/AnlsqSM.jpg">
+</p>
+
+
+
+
+Here is how it reacted when the Checkboxes were selected.
+
+<p align="center">
+  <img width="460" height="300" src="https://i.imgur.com/VcBlcxN.jpg">
+</p>
+
+
 ## Stylizing the Event add page
 Using bootstrap and various razer options, I was able to stylize and display the content in a more appealing way. With everything centered and place side by side, it not only appeared more asthetically pleasing on the eyes, but it was also more functional.
 
