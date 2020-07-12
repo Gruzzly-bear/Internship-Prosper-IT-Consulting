@@ -54,14 +54,6 @@ This was fixed by simply moving how the scripts were loaded on the page.
 ### The second erorr was Uncaught SyntaxError: Identifier ~~'XXXXXXXXX'~~ has already been declared.
 This was was resolved by putting a section of code into braces.
 
-## Disable Dropdown list if a checkbox is checked for adding times.
-The purpose of this was to disable a dropdown list if a checkbox was checked. This was to manage conflicting times on a calander.
-```C#
-if(eventBox.Checked)
-{
-  TimeSlot.Enabled = false;
-}
-```
 ## Reformatting of design and code alike.
 I reformatted multiple instances of code to not only make it look better on the front end, but to make it easier to read for the devs as well.
 
