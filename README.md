@@ -29,6 +29,9 @@ My first story was to clean up and re-arrange how the edit feature for images wo
     </div>
 ```
 
+![Dimensions](https://i.imgur.com/AnlsqSM.jpg)
+
+
 The way I accomplished this made it simple and understandable for the user to read.
 
 ## Fixing issues with the calander
