@@ -64,7 +64,6 @@ There were a few issues with the calander that needed to be addressed. Such as c
 Here is how it reacted when the Checkboxes were selected.
 </P>
 <p align="center">
-    Here is how it reacted when the Checkboxes were selected.
   <img width="460" height="300" src="https://i.imgur.com/VcBlcxN.jpg">
 </p>
 
