@@ -9,7 +9,7 @@
 - [Skills Acquired](#Other-skills-acquired)
 - [Contact](#Contact-and-links)
 ## Introduction
-I spent two weeks working on a live project with fellow students.
+I spent two weeks working on a live project with fellow entry level developers.
 We developed a full scale MVC/MVVM Web Application in C#. A lot of the Application was developed and our main focus was improving the code, adding new features and fixing bugs. I was tasked with doing a mix of all of it. From fixing errors thrown by javascript, reformatting code, and even adding new features.
 
 Although this was a live project worked on by a multitude of people, it was still for an actually and operating business. Therefore, I can only display snippits and rough mockups of what was done. I have created the mockups in the most simple form to give you an idea of what it looked like.
