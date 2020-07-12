@@ -2,7 +2,10 @@
 
 # Links
 - [Image Cleanup](#Cleanup-of-image-edit-page)
+- [Calander Issues](#Fixing-issues-with-the-calander)
+- [Even page styling](#Stylizing-the-Event-add-page)
 - [Debugging Javascript](#Debugging-Javascript)
+- [Reformating code and design](#Reformatting-of-design-and-code)
 - [Skills Acquired](#Other-skills-acquired)
 - [Contact](#Contact-and-links)
 ## Introduction
@@ -28,7 +31,7 @@ My first story was to clean up and re-arrange how the edit feature for images wo
 
 The way I accomplished this made it simple and understandable for the user to read.
 
-## Fixing issues with the calander.
+## Fixing issues with the calander
 There were a few issues with the calander that needed to be addressed. Such as checkboxes needing to be disabled when certain choices were chosen elsewhere. This was mostly useful for time selection of an event. There were two predetermined times in the system. Matinee and Evening. When ever someone selected the box for either of those, they wanted the dropdown selector for specific times to be disabled. Also, the same code could be reformatted and reused to disable the checkboxes if a specific time was checked in the checkboxes. The calander add event page needed to be cleaned and formatted to appeal better to the user. Everything was aligned to the left side of the page. Near to the edge. I adjusted some padding and centered everything.
 
 ```Javascript
@@ -41,7 +44,7 @@ There were a few issues with the calander that needed to be addressed. Such as c
         }
     });
 ```
-## Stylizing the Event add page.
+## Stylizing the Event add page
 Using bootstrap and various razer options, I was able to stylize and display the content in a more appealing way. With everything centered and place side by side, it not only appeared more asthetically pleasing on the eyes, but it was also more functional.
 
 
@@ -56,7 +59,7 @@ This was fixed by simply moving how the scripts were loaded on the page.
 This happens when a varieble with strict proerties has been called already.
 This was was resolved by putting a section of code containing the varieble into braces.
 
-## Reformatting of design and code alike.
+## Reformatting of design and code
 I reformatted multiple instances of code to not only make it look better on the front end, but to make it easier to read for the devs as well. This involved thinks like, centering code for readability, A cleaner appearance and look, and overall quality. I also reformatted and refactored code to make it easier for other developers working on the project.
 
 ## Other skills acquired
