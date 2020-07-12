@@ -55,7 +55,7 @@ There were a few issues with the calander that needed to be addressed. Such as c
 ```
 
 <p align="center">
-    Here is how it reacted when the drop down was selected.
+    Here is how it would have reacted when the drop down was selected. The check boxes to the left of it would be grayed out and disabled. Unable to be clicked.
 </p>
 <p align="center">
   <img width="450" height="300" src="https://i.imgur.com/AnlsqSM.jpg">
@@ -64,7 +64,7 @@ There were a few issues with the calander that needed to be addressed. Such as c
 
 
 <p align="center">
-Here is how it reacted when the Checkboxes were selected.
+Here is how it reacted when the Checkboxes were selected. It would disable the dropdown list because the preset time was checked.
 </P>
 <p align="center">
   <img width="450" height="300" src="https://i.imgur.com/VcBlcxN.jpg">
