@@ -50,9 +50,10 @@ There were a few issues with the calander that needed to be addressed. Such as c
     });
 ```
 
-
 <p align="center">
     Here is how it reacted when the drop down was selected.
+</p>
+<p align="center">
   <img width="460" height="300" src="https://i.imgur.com/AnlsqSM.jpg">
 </p>
 
