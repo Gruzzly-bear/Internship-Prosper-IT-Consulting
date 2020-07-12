@@ -28,8 +28,10 @@ My first story was to clean up and re-arrange how the edit feature for images wo
         new { @class = "control-label col-md-4 inputLabel" })
     </div>
 ```
-
-![Dimensions](https://i.imgur.com/AnlsqSM.jpg)
+<p align="center">
+  <img width="460" height="300" src="https://i.imgur.com/43lYV5O.jpg">
+</p>
+![Dimensions](https://i.imgur.com/43lYV5O.jpg)
 
 
 The way I accomplished this made it simple and understandable for the user to read.
