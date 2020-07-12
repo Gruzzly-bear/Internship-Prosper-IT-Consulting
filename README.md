@@ -7,7 +7,7 @@
 - [Contact](#Contact-and-links)
 ## Introduction
 The final two weeks at the tech academy was spent working on a live project with fellow students. 
-We developed a full scale MVC/MVVM Web Application in C#. A lot of the Application was developed and our main focus was improving the code, adding new features and fixing bugs. I was tasked with doing a mix of all of it. From fixing errors thrown by javascript, reformatting code, and even adding new features.
+We developed a full scale MVC/MVVM Web Application in C#. A lot of the Application was developed and our main focus was improving the code, adding new features and fixing bugs. I was tasked with doing a mix of all of it. From fixing errors thrown by javascript, reformatting code, and even adding new features. Although this was a live project worked on by a multitude of people, it was still for an actually and operating business. Therefore, I can only display snippits and rough mockups of what was done.
 I'll list some of the stories I worked on and what I achieved along the way.
 
 
@@ -26,10 +26,10 @@ My first story was to clean up and re-arrange how the edit feature for images wo
     </div>
 ```
 
-The way I did it made it simple and understandable for the user to read.
+The way I accomplished this made it simple and understandable for the user to read.
 
-## Fixing issue with the calander.
-There were a few issues with the calander that needed to be addressed. Such as checkboxes needing to be disabled when certain choices were chosen elsewhere. The calander add event page needed to be cleaned and formatted to appeal better to the user.
+## Fixing issues with the calander.
+There were a few issues with the calander that needed to be addressed. Such as checkboxes needing to be disabled when certain choices were chosen elsewhere. This was mostly useful for time selection of an event. There were two predetermined times in the system. Matinee and Evening. When ever someone selected the box for either of those, they wanted the dropdown selector for specific times to be disabled. Also, the same code could be reformatted and reused to disable the checkboxes if a specific time was checked in the checkboxes. The calander add event page needed to be cleaned and formatted to appeal better to the user. Everything was aligned to the left side of the page. Near to the edge. I adjusted some padding and centered everything.
 
 ```Javascript
     $('#disableUnchecked').change(function () {
@@ -64,7 +64,7 @@ I reformatted multiple instances of code to not only make it look better on the 
 - To help an assist other developers with their projects.
 - Look into problems I don't initially know and figure out how to solve them efficiently.
 - Work with a team of other developers.
-  - Share ideas and constructive criticism effectively.
+  - Share ideas and constructive criticism effectively and efficiantly. Learning off of eachother's experiences and knowledge.
   - Work in tandem with other developers to insure that everything goes smoothly.
 
 ## Contact and links
