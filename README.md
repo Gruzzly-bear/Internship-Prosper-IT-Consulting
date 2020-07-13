@@ -9,7 +9,7 @@
 - [Skills Acquired](#Other-skills-acquired)
 - [Contact](#Contact-and-links)
 ### Introduction
-I have spent two weeks working on a live project with fellow entry level developers from novice to advanced.
+I have spent two weeks working on a live project with fellow developers whose skills ranged from novice to advanced.
 We worked on a full scale MVC/MVVM Web Application utilizing Javascript, C#, HTML/CSS and razer Syntax. A lot of the Application was developed and our main focus was improving the code, adding new features and fixing bugs. We all were tasked with doing a mix of all of it. From fixing errors thrown by javascript, reformatting code, and even adding new features. I worked on stories that involved a little bit of everything.
 
 Although this was a live project worked on by a multitude of people, it was still for a functions and operating business. Therefore, I can only display snippits and rough mockups of what was done. I have created the mockups in the most simple form to give you an idea of what it looked like.
