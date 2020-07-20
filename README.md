@@ -1,4 +1,4 @@
-# Live Project Summary
+# Internship-Prosper IT Consulting
 
 ## Links
 - [Image Cleanup](#Cleanup-of-image-edit-page)
