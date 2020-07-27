@@ -90,7 +90,7 @@ This happens when a varieble with strict proerties has been called already.
 This was was resolved by putting a section of code containing the varieble into braces.
 
 ### Reformatting of design and code
-I reformatted multiple instances of code to not only make it look better on the front end, but to make it easier to read for the devs as well. This involved thinks like, centering code for readability, A cleaner appearance and look, and overall quality. I also reformatted and refactored code to make it easier for other developers working on the project.
+I reformatted multiple instances of code to not only make it look better on the front end, but to make it easier to read for the devs as well. This involved things like, centering code for readability, A cleaner appearance and look, and overall quality. I also reformatted and refactored code to make it easier for other developers working on the project.
 
 ### Other skills acquired
 - The ability to comfortably work on a project and utilize Azure Dev-ops to successfully publish the code efficiently.
